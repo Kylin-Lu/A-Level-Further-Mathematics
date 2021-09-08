@@ -1,0 +1,18 @@
+The node has been deleted is : B
+The RMST used : ['DE', 'CD', 'AC', 'DF'] . The weight of it is : 172
+Then add : ['BF', 'AB'] . The weight now is : 238
+The node has been deleted is : F
+The RMST used : ['AB', 'AE', 'DE', 'BC'] . The weight of it is : 162
+Then add : ['BF', 'DF'] . The weight now is : 237
+The node has been deleted is : A
+The RMST used : ['BF', 'DF', 'DE', 'BC'] . The weight of it is : 154
+Then add : ['AB', 'AC'] . The weight now is : 231
+The node has been deleted is : D
+The RMST used : ['BF', 'AB', 'BC', 'AE'] . The weight of it is : 154
+Then add : ['DE', 'DF'] . The weight now is : 237
+The node has been deleted is : E
+The RMST used : ['BF', 'AB', 'BC', 'DF'] . The weight of it is : 150
+Then add : ['DE', 'AE'] . The weight now is : 237
+The node has been deleted is : C
+The RMST used : ['BF', 'AB', 'DF', 'DE'] . The weight of it is : 149
+Then add : ['BC', 'AC'] . The weight now is : 231

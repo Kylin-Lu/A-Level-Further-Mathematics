@@ -1,0 +1,18 @@
+The starting point is : B
+The nearest neighbour used : ['BF', 'DF', 'DE', 'AE', 'AC'] . The weight of it is : 204
+Then add : BC . The weight now is : 244
+The starting point is : F
+The nearest neighbour used : ['BF', 'AB', 'AC', 'CD', 'DE'] . The weight of it is : 194
+Then add : EF . The weight now is : 246
+The starting point is : A
+The nearest neighbour used : ['AB', 'BF', 'DF', 'DE', 'CE'] . The weight of it is : 202
+Then add : AC . The weight now is : 244
+The starting point is : D
+The nearest neighbour used : ['DE', 'AE', 'AB', 'BF', 'CF'] . The weight of it is : 202
+Then add : CD . The weight now is : 249
+The starting point is : E
+The nearest neighbour used : ['DE', 'DF', 'BF', 'AB', 'AC'] . The weight of it is : 191
+Then add : CE . The weight now is : 244
+The starting point is : C
+The nearest neighbour used : ['BC', 'BF', 'DF', 'DE', 'AE'] . The weight of it is : 202
+Then add : AC . The weight now is : 244
